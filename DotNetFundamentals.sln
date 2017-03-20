@@ -9,10 +9,22 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1_html", "1_html", "{870A09
 		0.02_HandP_tags.html = 0.02_HandP_tags.html
 		0.03_lists.html = 0.03_lists.html
 		0.04_links.html = 0.04_links.html
+		0.05_images.html = 0.05_images.html
+		0.06_tables.html = 0.06_tables.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "img", "img", "{D1EF3D24-6C28-4BF8-AE6C-FFA5AD88470C}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\Desktop\btc2.jpg = ..\..\..\..\Desktop\btc2.jpg
+		..\..\..\..\Desktop\btcm.jpg = ..\..\..\..\Desktop\btcm.jpg
+		img\opengraph.png = img\opengraph.png
 	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D1EF3D24-6C28-4BF8-AE6C-FFA5AD88470C} = {870A0931-A503-4B0E-BE46-32FD84E28087}
 	EndGlobalSection
 EndGlobal
